@@ -1,0 +1,4 @@
+NYC Taxi Trip Duration Prediction
+
+Predicting trip duration is important for many online cab services such as Uber & Ola. 
+This project will cover techniques to accurately predict trip duration for taxi trips in New York using data from TLC commission New York.
